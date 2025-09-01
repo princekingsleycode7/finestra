@@ -145,14 +145,10 @@ As the developer of Fintera, I bring:
 
 ## 📫 Contact & Professional Links
 
-- **Portfolio:** [Your Portfolio URL]
-- **LinkedIn:** [Your LinkedIn]
+- **Portfolio:** digiking.com.ng
+- **LinkedIn:** www.linkedin.com/in/chimebukathefirst
 - **GitHub:** [@princekingsleycode7](https://github.com/princekingsleycode7)
-- **Email:** [Your Professional Email]
-
-## 📝 License
-
-This project is MIT licensed. See the [LICENSE](LICENSE) file for details.
+- **Email:** newcetf@gmail.com
 
 ---
 Built with 💻 expertise and 💪 dedication by Prince Kingsley
